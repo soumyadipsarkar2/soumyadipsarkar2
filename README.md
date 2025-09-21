@@ -43,6 +43,3 @@
 <a href="mailto:soumyadipsarkar@tamu.edu">soumyadipsarkar@tamu.edu</a> ·
 <a href="https://www.linkedin.com/in/soumyadip-sarkar2">LinkedIn</a> ·
 <a href="https://github.com/soumyadipsarkar2">GitHub</a>
-
-<!-- one-liner -->
-<p align="center"><i>I scale systems until they break—then scale them again 🚀</i></p>
